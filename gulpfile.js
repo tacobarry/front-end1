@@ -9,7 +9,7 @@ var sourcePaths = {
 };
 
 var distPaths = {
-  styles: 'dist/css'
+  styles: 'css'
 };
 
 var server = {
